@@ -3,7 +3,7 @@ Una pequeña página web que puede ser corrida en local, hecho con el objetivo d
 una database, un backbend y un frontbend.
 
 ## Instrucciones de Instalación
-- Crear un nuevo proyecto en pycharm, ponerle nombre y marcar la casilla de nuevo entorno virtual (virtualenv en este caso).
+- Crear un nuevo proyecto en pycharm, ponerle nombre y marcar la casilla de nuevo entorno virtual (virtualenv).
 - Crear una carpeta al mismo nivel que los directorios "Lib" y "Scripts", en mi caso la llamaré "Main".
 - Copiar los archivos de este github dentro del directorio "Main", aconsejo tener instalado "DB Browser for SQLite".
 - Instalar los módulos necesarios desde la consola de pycharm (Alt + F12) con "pip install flask flask-login".
