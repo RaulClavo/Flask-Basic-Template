@@ -16,3 +16,4 @@ una database, un backbend y un frontbend.
 - Analizar la sintaxis de las rutas de la página así como sus parámetros.
 - ¿Cómo es capaz de representar el frontbend variables del backbend?
 - Explica el recorrido de los datos al registrarse y al iniciar sesión.
+- ¿Podrías conseguir la contraseña de un usuario mirando la base de datos?
