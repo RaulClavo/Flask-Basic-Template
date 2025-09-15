@@ -1,4 +1,4 @@
-# FlaskBasic
+# Plantilla Básica de Flask
 Una pequeña página web que puede ser corrida en local, hecho con el objetivo de representar los componentes más básicos de una página web;
 una database, un backbend y un frontbend.
 
