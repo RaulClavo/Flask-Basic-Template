@@ -13,7 +13,7 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 login_manager = LoginManager()
 login_manager.init_app(app)
 
-# Lista de correos de administradores (no registrados todavía).
+# Lista de correos de administradores
 ADMIN_EMAILS = ['admin@gmail.com']
 
 # Base de datos
@@ -127,3 +127,4 @@ def index():
 
 init_db()
 app.run(host='0.0.0.0')
+
